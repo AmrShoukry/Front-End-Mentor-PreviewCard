@@ -3,7 +3,7 @@
     --backgroundColor: #0D1A2D;
     --backgroundColor-o: #0D1A2Dcc;
     --card-backColor: #15273F;
-    --textColor: #617792;
+    --textColor: #8BACDA;
     --specialColor: #16F8F3;
     --specialColor-o: #16F8F399;
     --headerColor: white;
@@ -12,7 +12,7 @@
     --max-width: 320px;
 
     --inner-padding: 40px;
-    --outer-padding: 20px;
+    --outer-padding: 24px;
 
     --margin: 20px;
     --narrow-margin: 12px;
@@ -157,7 +157,7 @@ body
 .card .mytext hr
 {
     border: 0px solid var(--textColor);
-    height: 0.05px;
+    height: 0.2px;
     width: 100%;
     background-color: var(--textColor);
     margin-bottom: var(--margin);
